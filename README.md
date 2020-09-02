@@ -26,7 +26,7 @@ You may extend you script section inside your package.json like this:
 "cypress:run": "cypress run",
 ```
 
-The first command will opeh the Cypress UI. The second will run Cypress in headless mode.
+The first command will open the Cypress UI. The second will run Cypress in headless mode.
 
 ## Configuration
 
